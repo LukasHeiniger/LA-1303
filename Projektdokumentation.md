@@ -22,26 +22,14 @@ Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutz
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss                |  funktional    | Als ein Spieler möchte ich mich bewegen können, um vor den Zombies wegzurennen |
-| 2  |  muss                 | funktional      | Als ein Spieler möchte ich Springen können, damit ich auf höher gelegene Positionen springen kann.                                   |
-| 3    | kann                | funktionel     | Als ein Spieler möchte ich mich ducken können, damit ich durch kleine Gänge gehen kann.|
+| 1    | muss                |  funktional    | Als ein User möchte ich eine Textdatei auswählen können, damit man diese verschlüsseln oder entschlüsseln kann. |
+| 2  |  muss                 | funktional      |Als ein User möchte ich eine Meldung bekommen, ob die Datei gefunden worden ist, damit ich sicher gehen kann das sie wirklich vorhanden ist.  |
+| 3    | muss                | funktionel     | Als ein User möchte ich gefragt werden, ob der Text verschlüsselt oder entschlüsselt werden soll.|
 | 4  |  muss               | funktional     | Als ein Spieler möchte ich Zombies, damit ich vor dennen wegrennen kann oder diese besiegen.                                   |
 | 5    |  muss               | funktional     | Als ein Spieler möchte ich Waffen, damit ich mich gegen die Zombies wehren kann.|
 | 6  | muss                | funktional     | Als ein Spieler möchte ich mir ein Unterschlupbauen können, damit ich mich vor den Zombies verstecken kann.                                   |
 | 7   |  kann             |  funktional   | Als ein Spieler möchte ich Items herstellen, damit ich mich gegen die Zombies wehren kann. |
-| 8  | kann                | funktional     | Als ein Spieler möchte ich Items aufsammel können, damit ich Sachen herstellen kann.                                   |
-| 9    |  muss               |  funktional    | Als ein Spieler möchte ich Bäume und Steine abbauen, damit ich Ressourcen habe, um ein Haus zubauen. |
-| 10  |kann                | qualität      |  Als ein Spieler möchte ich Animationen im Spiel, damit es schöner aussieht.                                  |
-| 11   |  kann               | qualität     | Als ein Spieler möchte ich Sounds haben, damit die Welt sich realistischer anfühlt. |
-| 12 | muss                | Randanforderung     | Als ein Spieler möchte ich eine Karte haben, damit ich auf dieser Spielen kann.                                    |
-| 13   | muss                | funktional     | Als ein Spieler möchte ich essen und trinken, damit es noch schwieriger ist zu überleben. |
-| 14 |   kann              | funktional     |  Als ein Spieler möchte ich ein Fortbewegungsmittel verwenden, dmait ich mich schneller und sicherer fortbewegen kann.                                  |
-| 15   |  kann               | funktional     | Als ein Spieler möchte ich Erfahrung (XP) sammeln, damit ich meinen Charakter verbessern kann. |
-| 16 |   kann              | funktional     |  Als ein Spieler möchte ich mein Spiel speichern und laden können, damit meine Welt gespeichert ist und ich sie diese ein anderes Mal wieder starten kann  |    
-| 16 |   muss            | funktional     | Als ein Spieler möchte ich meine Ausdauer sehen an hand einer Ausdauerleiste, damit ich weiss wie lange ich noch sprinten kann. |    
-| 16 |  muss            | funktional     |  Als ein Spieler möchte ich sehen wie viel Leben ich noch habe, dies möchte ich anhand eine Lebensanzeige sehen, damit ich immmer weiss wie viel Leben ich noch habe  |       
-
-
+| 8  | kann                | funktional     | Als ein Spieler möchte ich Items aufsammel können, damit ich Sachen herstellen kann.|
 
 ### 1.3 Testfälle
 
