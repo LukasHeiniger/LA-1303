@@ -30,16 +30,27 @@ namespace CypherEcho
             printer.PrintWithDelay(text2, 50);
 
             Space();
-
-            Console.Write("Name der Textdatei: ");
-            string dateiName = Console.ReadLine();
-
-
-
-            
+            string dateiName = string.Empty;
+            bool fileFound = false;
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            string filePath = string.Empty;
 
-            string filePath = Path.Combine(desktopPath, dateiName);
+            while (!fileFound)
+            {
+                Console.Write("Name der Textdatei: ");
+                dateiName = Console.ReadLine(); //Dateiname muss wie folgt eingegeben werden Name.txt
+
+                filePath = Path.Combine(desktopPath, dateiName);
+
+                if (File.Exists(filePath))
+                {
+                    fileFound = true;
+                }
+                else
+                {
+                    Console.WriteLine($"Die Datei '{dateiName}' wurde nicht gefunden. Bitte erneut versuchen.");
+                }
+            }
 
             searchfile.SearchFile(desktopPath, dateiName);
 
@@ -47,6 +58,7 @@ namespace CypherEcho
 
             string text3 = "Entschlüssel oder Verschlüsseln: ";
             printer.PrintWithDelay(text3, 50);
+
 
             Console.WriteLine("[1/2]");
             int answer =Convert.ToInt32(Console.ReadLine());
@@ -102,6 +114,8 @@ namespace CypherEcho
 
             string text4 = "Da wir nun fertig sind solltest du verschwinden, bevor dich noch jemand erwischt.";
             printer.PrintWithDelay(text4, 50);
+
+            
 
 
         }

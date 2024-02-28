@@ -16,6 +16,8 @@ namespace CypherEcho
         public string Decrypt(string input, int unlockcode)
         {
             return ShiftText(input, -unlockcode);
+
+
         }
 
         private string ShiftText(string input, int shift)
@@ -34,11 +36,14 @@ namespace CypherEcho
                     {
                         if (shiftedChar < 'a')
                         {
+
                             shiftedChar = (char)(shiftedChar + 26);
                         }
+
                         else if (shiftedChar > 'z')
                         {
                             shiftedChar = (char)(shiftedChar - 26);
+
                         }
                     }
                     else if (char.IsUpper(originalChar))
@@ -49,8 +54,11 @@ namespace CypherEcho
                         }
                         else if (shiftedChar > 'Z')
                         {
+
+                            
                             shiftedChar = (char)(shiftedChar - 26);
                         }
+
                     }
 
                     result[i] = shiftedChar;
@@ -61,7 +69,16 @@ namespace CypherEcho
                 }
             }
 
+
+
+
             return new string(result);
+
+       
+    
         }
     }
+
+
+
 }
