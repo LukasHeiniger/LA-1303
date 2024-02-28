@@ -25,36 +25,28 @@ Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutz
 | 1    | muss                |  funktional    | Als ein User möchte ich eine Textdatei auswählen können, damit man diese verschlüsseln oder entschlüsseln kann. |
 | 2  |  muss                 | funktional      |Als ein User möchte ich eine Meldung bekommen, ob die Datei gefunden worden ist, damit ich sicher gehen kann das sie wirklich vorhanden ist.  |
 | 3    | muss                | funktionel     | Als ein User möchte ich gefragt werden, ob der Text verschlüsselt oder entschlüsselt werden soll.|
-| 4  |  muss               | funktional     | Als ein Spieler möchte ich Zombies, damit ich vor dennen wegrennen kann oder diese besiegen.                                   |
-| 5    |  muss               | funktional     | Als ein Spieler möchte ich Waffen, damit ich mich gegen die Zombies wehren kann.|
-| 6  | muss                | funktional     | Als ein Spieler möchte ich mir ein Unterschlupbauen können, damit ich mich vor den Zombies verstecken kann.                                   |
-| 7   |  kann             |  funktional   | Als ein Spieler möchte ich Items herstellen, damit ich mich gegen die Zombies wehren kann. |
-| 8  | kann                | funktional     | Als ein Spieler möchte ich Items aufsammel können, damit ich Sachen herstellen kann.|
+| 4  |  muss               | funktional     | Als ein User möchte ich, dass der Text verschlüsselt wird, damit ich eine verschlüsselte Nachricht versenden kann.|
+| 5    |  muss               | funktional     |Als ein User möchte ich, dass der verschlüsselte Text auch entschlüsselt werden kann, damit ich die verschlüsselte nachricht lesen kann.|
+| 6  | kann                | funktional     | Als ein User möchte ich, dass der neue Text in ein neues File gespeichert wird, damit die alte Datei noch vorhanden ist. |
+| 7   |  kann             |  qualität   | Als ein User möchte ich das der Text mit einem Delay ausgegeben wird, damit es einzigartiger wirkt.|
+| 8  | kann                | qualität     | Als ein User möchte ich, das Fehler abgefangen werden, damit dass Programm nicht abstürzt.|
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Spiel wurde gestartet             |  W/A/S/D       | Spieler bewegt sich                  |
-| 2.1  | Spiel wurde gestartet             | Shift und W/A/S/D        |  Spieler sprint                 |
-| 3.1  | Spiel wurde gestartet               |  CTRL       |   Spieler duckt sich                |
-| 4.1 | Spieler erkundet sich             | /         |      Zombies sind vorhanden             |
-| 5.1  | Waffe wird ausgerüstet             |   Linksklick      |     Waffe feuert              |
-| 5.2 |  Waffe wurde benutzt            |    R     |     Waffe wird nachgeladen, wenn Mun. vorhandenist              |
-| 6.1  | Materialien sind vorhanden             |   ?      |   Unterschlupf kann gebaut werden                |
-| 7.1  |  Materialien sind vorhanden            |  I       |      Inventar öffnet sich mit der möglichkeit Items herzustellen.             |
-| 8.1  |  Item liegt auf dem Boden            |    E     |       Objekt wird aufgehoben und im Inventar gespeichert            |
-| 9.1  | Baum ist vorhanden              | Linksklick mit Axt        |       Baum fällt um Ressourcen werden dem Spieler hinzugefügt            |
-| 9.2  | Stein ist vorhanden             | Linksklick mit Spitzhacke        |   Stein wird abgebaut und Ressourcen werden dem Spieler hinzugefügt                |
-| 10.1  | Onjekt mit Animationen ist vorhanden             |   /      |    Animationen werden abgespielt               |
-| 11.1  | Objekt welches Sound abspielen kann ist vorhanden             |  /       |   Sound wird abgespielt                |
-| 12.1  | Spiel wird gestartet             |     /    |      Karte ist vorhanden             |
-| 13.1  |   Der Spieler hat Essen oder Trinken           |  Item wird gegessen       |     Hunger oder Durst wird gestillt              |
-| 14.1  |  Der Spieler hat ein Fortbewegungsmittel gefunden            |   W/A/S/D      |   Fortbewgungsmittel bewegt sich                |
-| 15.1 | Spieler tötet ein Zombie             | Töten des Zombies    |    Spieler erhält XP               |
-| 15.2 | Spieler öffnet LVL System             | I        |  Spieler kann sein Charakter verbessern                 |
-| 16.1  | Spieler spiel Spiel             | Spiel wird gespeichert        |   Spiel wurde abgespeichert                |
-| 16.2 | Savegame vorhanden             | Spieler lädt Savegame        |      Spielfortschritt ist vorhanden             |
+| 1.1  | Programm wurde gestartet und Frag nach Dateiname.           |  Dateiname     | Info,ob die Datei gefunden worden ist.                 |
+| 2.1  | Dateiname wird eingegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
+| 3.1  | Datei wird eingegeben            | Dateiname | Möchten sie enschlüssen oder verschlüssln.             |
+| 4.1  | Datei wurde gefunden.           | 2 | Programm vordert User auf ein Verschlüsselungscode zu wählen.             |
+| 4.2  | Es wurde sich für verschlüsseln entschieden.          | 2 | Programm vordert User auf ein Verschlüsselungscode zu wählen.             |
+| 5.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
+| 6.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
+| 7.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
+| 8.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
+
+
+
 
 
 ## 2 Planen
