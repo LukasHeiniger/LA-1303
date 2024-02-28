@@ -1,0 +1,14 @@
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\bin\Debug\net6.0\CypherEcho.exe
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\bin\Debug\net6.0\CypherEcho.deps.json
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\bin\Debug\net6.0\CypherEcho.runtimeconfig.json
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\bin\Debug\net6.0\CypherEcho.dll
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\bin\Debug\net6.0\CypherEcho.pdb
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.AssemblyInfo.cs
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.dll
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\refint\CypherEcho.dll
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.pdb
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\CypherEcho.genruntimeconfig.cache
+C:\Users\lukas\OneDrive - Alte Kantonsschule Aarau\Dokumente\Baden\Modul 295\CypherEcho\CypherEcho\obj\Debug\net6.0\ref\CypherEcho.dll
