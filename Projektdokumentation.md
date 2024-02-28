@@ -38,12 +38,14 @@ Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutz
 | 1.1  | Programm wurde gestartet und Frag nach Dateiname.           |  Dateiname     | Info,ob die Datei gefunden worden ist.                 |
 | 2.1  | Dateiname wird eingegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
 | 3.1  | Datei wird eingegeben            | Dateiname | Möchten sie enschlüssen oder verschlüssln.             |
-| 4.1  | Datei wurde gefunden.           | 2 | Programm vordert User auf ein Verschlüsselungscode zu wählen.             |
-| 4.2  | Es wurde sich für verschlüsseln entschieden.          | 2 | Programm vordert User auf ein Verschlüsselungscode zu wählen.             |
-| 5.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
-| 6.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
-| 7.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
-| 8.1  | Dateiname wurde ausgegeben            | / | Datei wurde gefunden/Datei wurde nicht gefunden.             |
+| 4.1  | Datei wurde gefunden.           | 2 | Programm fordert User auf ein Verschlüsselungscode zu wählen.             |
+| 4.2  | Programm fordert User auf ein Verschlüsselungscode zu wählen.          | 3 Zahlen werden hintereinander eigegeben |Datei wird mit diesem Verschlüsselungscode verschlüsselt|
+| 5.1  |Datei wurde gefunden           | 1 | User wird aufgeforder den Code wieder einzugeben.             |
+| 5.2  |User wird aufgeforder den Code wieder einzugeben. | Die richtigen 3 Zahlen werden eigegeben | Datei wird entschlüsselt.            |
+| 6.1  | Text wurde verschlüsselt            | Ja | Verschlüsselter Text wird in neue Datei gespeichert.             |
+| 7.1  | Programm wird gesrartet.           | / | Text wird mit Delay abgespielt.             |
+| 8.1  |Eingabe auforderung. (Zahl wird gefordert)           | String | Bitte geben sie eine Zahl ein.          |
+| 8.2  |Eingabe auforderung. (Dateiname)           | Falsche Datei | Bitte fügen sie ein Textdokumment ein, welches sich auf dem Desktop befinded.           |
 
 
 
