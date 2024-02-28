@@ -78,45 +78,39 @@ Ich habe mich am anfang gegen eine vor gefärtigte Codierlösung entschieden, da
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
-| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   20 Minuten            |   20 Minuten                |
+| 1.B  |  22.11     |  Lukas|   45 Minuten            |   40 Minuten                |
+| 7.A  |  22.11     |  Lukas|   45 Minuten            |   45 Minuten                |
+| 2.A  |  22.11     |  Lukas|   15 Minuten            |   15 Minuten                |
+| 3.A  |  22.11     |  Lukas|   20 Minuten            |   25 Minuten                |
+| 4.A  |  22.11     |  Lukas|   200 Minuten            |   ca. 200 Minuten                |
+| 5.A  |  22.11     |  Lukas|   200 Minuten            |   100 Minuten                |
+| 6.A  |  22.11     |  Lukas|   45 Minuten            |   45 Minuten                |
+| 8.A  |  22.11     |  Lukas|   60 Minuten            |   60 Minuten                |
+| 9.A  |  22.11     |  Lukas|   120 Minuten            |   160 Minuten                |
+| 9.B  |  22.11     |  Lukas|   120 Minuten            |   120 Minuten                |
+
+
+
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |Testumgebung|
 | ---- | ----- | -------- | ------ | ---------|
-| 1.1  | 10.01.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
-| 2.1  | 10.01.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
-| 3.1  | 10.01.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
-| 4.1  | 10.01.24|  ist vorhanden       | Lukas       | Zuhause am Schreibtisch |
-| 5.1  | 10.01.24| funktioniert bis auf das wechseln         | Lukas       | Zuhause am Schreibtisch |
-| 5.2  | 10.01.24| funktioniert         | Lukas       | Zuhause am Schreibtisch |
-| 6.1  | 10.01.24| funktioniert nicht         | Lukas       | Zuhause am Schreibtisch |
-| 7.1  | 10.01.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
-| 8.1  | 10.01.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
-| 9.1  | 10.01.24| nicht vorhanden        | Lukas       | Zuhause am Schreibtisch |
-| 9.2  | 10.01.24| nicht vorhanden          | Lukas       | Zuhause am Schreibtisch |
-| 10.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 11.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 12.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 13.1  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 14.1  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 15.1  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 15.2  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 16.1  | 10.01.24| nicht vorhanden        | Lukas       | Zuhause am Schreibtisch |
-| 16.2  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 27.02.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
+| 2.1  | 27.02.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
+| 3.1  | 27.02.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
+| 4.1  | 27.02.24|  funktioniert       | Lukas       | Zuhause am Schreibtisch |
+| 4.2  | 27.02.24| funktionier        | Lukas       | Zuhause am Schreibtisch |
+| 5.1  | 27.02.24| funktioniert         | Lukas       | Zuhause am Schreibtisch |
+| 5.2  | 27.02.24| funktioniert         | Lukas       | Zuhause am Schreibtisch |
+| 6.1  | 27.02.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
+| 7.1  | 27.02.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
+| 8.1  | 27.02.24| funktioniert       | Lukas       | Zuhause am Schreibtisch |
+| 8.2  | 27.02.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
 
+Fazit:
 
-Da wir nicht alles in der vorgegebene Zeit schaffen konnten haben wir uns auf die wichtigsten Funktionen fokussiert. Trozdem sind wir recht zufrieden mit dem Ergebnis
+Ich bin relativ mit dem Resultat zu frieden, jedoch hätte die Verschlüsselung noch ein wenig besser sein können. Es war nicht mein bestes aber auch nicht ein schlechtes Projekt, ich würde sagen es liegt im Mittelfeld also ganz okay aber auch nichts weltbewegendes.
 
 
