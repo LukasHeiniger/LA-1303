@@ -72,34 +72,24 @@ Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutz
 
 ## 3 Entscheiden
 
-Wir haben uns nach dem Informieren und Planen dafür entschieden, das wir nur die wichtigsten Funktionen implementieren, da der rest sonst viel zu lange gedauert hätte.
+Ich habe mich am anfang gegen eine vor gefärtigte Codierlösung entschieden, da ich den Verschlüsselungs- und Entschlüsselungsmechanismus selber machen wollte ansonsten hätte ich auch nicht viel anderes mehr machen können.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  22.11     |  Mirhan Özden         |   50 Minuten            |   40 Minuten                |
-| 2.A  | 22.11       | Mirhan Özden          |    50 Minuten           |   40 Minuten                |
-|3.A|22.11 |Mirhan Özden| 50 Minuten| 45 Minuten   |
-|4.A|22.11|Mirhan Özden|10 Minuten|10 Minuten|
-|5.A|22.11|Lukas Heiniger|90min|180min|
-|6.A|22.11|Lukas Heiniger|90min|240min|
-|7.A|29.11|Lukas Heiniger|120min|nicht angefangen|
-|8.A|29.11|Mirhan Özden|120 Minuten| 200 Minuten (Funktioniert nicht ganz)|
-|9.A|29.11|Mirhan Özden|120 Minuten|150 Minuten|
-|10.A|29.11|Mirhan Özden|120 Minuten|(Wegen der Zeit nicht geschafft)|
-|11.A|6.12|Lukas Heiniger|60min|60min||
-|12.A|6.12|Mirhan Özden|90 Minuten|70 Minuten|
-|13.A|6.12|Lukas Heiniger|60min|60min||
-|14.A|6.12|Lukas Heiniger||||
-|15.A|6.12|Lukas Heiniger||||
-|16.A|6.12|Mirhan Özden|120 Minuten|200 Minuten|
-|17.A|6.12|Mirhan Özden|120 Minuten|150 Minuten|
-|18.A|13.12|Mirhan Özden|90 Minuten|120 Minuten|
-|19.A|9.1|Lukas Heiniger|45min|90min|
-|20.A|9.1|Lukas Heiniger|45min|100min|
-
-
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
+| 1.A  |  22.11     |  Lukas|   50 Minuten            |   40 Minuten                |
 
 ## 5 Kontrollieren
 
