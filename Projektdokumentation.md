@@ -55,23 +55,19 @@ Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutz
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 22.11      |  Lukas         |  Spieler soll sich bewegen können            |    50 Minuten           |
-| 2.A  | 22.11      |  Lukas         |   Spieler soll springen können           |    50 Minuten           |
-| 3.A  |  22.11     |  Lukas         |   Spieler soll sich ducken können           |  50 Minuten             |
-|4.A   |22.11       |Lukas           |Einen Cursor machen                          |15 Minuten|
-| 5.A  |  22.11     |   Lukas        |  Besiegbare Zombies            |  90 Minuten             |
-| 6.A  |  22.11     |  Lukas         |  Waffen            |  90 Minuten             |
-| 7.A  |  29.11     |  Lukas         |  Basis bauen            |  120 Minuten             |
-| 8.A  |  29.11     |  Lukas        |  Items herstellen            |  120 Minuten             |
-| 9.A  | 29.11      |  Lukas         |  Items aufsammeln            | 120 Minuten              |
-| 10.A  | 29.11      |  Lukas         |   Bäume/Steine abbauen           |  120 Minuten             |
-| 11.A  |  6.12     |  Lukas         |  Animationen einbauen            | 60 Minuten              |
-| 12.A  |  6.12     |  Lukas         | Sounds einbauen             |  90 Minuten             |
-| 13.A  | 6.12      |  Lukas         | Karte             | 60 Minuten              |
-| 14.A  | 6.12      |  Lukas         |  Essen & Trinken            |  90 Minuten             |
-| 15.A  | 6.12      |  Lukas         |   Fortbewegungsmittel           | 90 Minuten              |
-| 19.A  | 20.12      |  Lukas         |  Lebensanzeige           |  45 Minuten             |
-| 20.A  | 20.12      |  Lukas         |   Ausdaueranzeige           | 45 Minuten              |
+| 1.A  | 24.01.24      |  Lukas         |  User soll nach der gewünschten Datei gefragt werden           |    20 Minuten           |
+| 1.B  | 24.01.24      |  Lukas         |  Datei soll gefunden werden.           |    45 Minuten           |
+| 7.A  | 24.01.24      |  Lukas         |  Text soll mit Delay ausgegeben werden.         |    45 Minuten           |
+| 2.A  | 24.01.24      |  Lukas         |  Ausgabe ob Datei gefunden worden ist oder nicht.           |    15 Minuten           |
+| 3.A  | 24.01.24      |  Lukas         |  User soll gefragt werden ob verschlüsseln oder entschlüsseln.           |    20 Minuten           |
+| 4.A  | 24.01.24      |  Lukas         |  Text soll verschlüsselt werden.           |   200min Minuten           |
+| 5.A  | 14.02.24      |  Lukas         |  Text soll entschlüsselt werden.           |    200min Minuten           |
+| 6.A  | 14.02.24      |  Lukas         |  Verschlüsselter Text soll in ein neues Text Dokumment gespeichert werden.          |    45 Minuten           |
+| 8.A  | 14.02.24      |  Lukas         |  Fehler sollen im ganzen Projekt abgefangen werden        |    60 Minuten           |
+| 9.A  | 21.02.24      |  Lukas         |  Lernbericht           |    120min          |
+| 9.B  | 21.02.24      |  Lukas         |  Projekdokummentation           |    120min          |
+
+
 
 
 ## 3 Entscheiden
