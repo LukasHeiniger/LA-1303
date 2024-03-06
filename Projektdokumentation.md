@@ -14,22 +14,22 @@ Lukas Heiniger
 
 ### 1.1 Ihr Projekt
 
-Mein Projekt ist eine Konsolen Applikation, die es dem Benutzer ermöglicht Texte zu verschlüsseln und zu entschlüsseln, sprich eine Codierungsgerät.
+Mein Projekt ist eine Konsolen-Applikation, die es dem Benutzer ermöglicht, Texte zu verschlüsseln und zu entschlüsseln, sprich ein Codierungsgerät.
 
-Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutzer ermöglicht Texte zu verschlüsseln und auch zu entschlüsseln das Ziel der App ist Nachrichten zu verschlüsseln um diese jemand anderem zu schicken, welcher die Nachricht mit dem richtigen Code entschlüsseln kann. Ausserdem war das ziel nochmals ein Objekt Orientiertes Programmieren (OOP) Projekt zu erstellen.
+Mein Ziel war von Anfang an klar, ich wollte eine App machen, die es dem Benutzer ermöglicht, Texte zu verschlüsseln und auch zu entschlüsseln, das Ziel der App ist, Nachrichten zu verschlüsseln, um diese jemand anderem zu schicken, welcher die Nachricht mit dem richtigen Code entschlüsseln kann. Ausserdem war das Ziel nochmals ein Objekt orientiertes Programmieren (OOP) Projekt zu erstellen.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss                |  funktional    | Als ein User möchte ich eine Textdatei auswählen können, damit man diese verschlüsseln oder entschlüsseln kann. |
-| 2  |  muss                 | funktional      |Als ein User möchte ich eine Meldung bekommen, ob die Datei gefunden worden ist, damit ich sicher gehen kann das sie wirklich vorhanden ist.  |
+| 2  |  muss                 | funktional      |Als ein User möchte ich eine Meldung bekommen, ob die Datei gefunden worden ist, damit ich sicher gehen kann, dass sie wirklich vorhanden ist.  |
 | 3    | muss                | funktionel     | Als ein User möchte ich gefragt werden, ob der Text verschlüsselt oder entschlüsselt werden soll.|
 | 4  |  muss               | funktional     | Als ein User möchte ich, dass der Text verschlüsselt wird, damit ich eine verschlüsselte Nachricht versenden kann.|
-| 5    |  muss               | funktional     |Als ein User möchte ich, dass der verschlüsselte Text auch entschlüsselt werden kann, damit ich die verschlüsselte nachricht lesen kann.|
+| 5    |  muss               | funktional     |Als ein User möchte ich, dass der verschlüsselte Text auch entschlüsselt werden kann, damit ich die verschlüsselte Nachricht lesen kann.|
 | 6  | kann                | funktional     | Als ein User möchte ich, dass der neue Text in ein neues File gespeichert wird, damit die alte Datei noch vorhanden ist. |
-| 7   |  kann             |  qualität   | Als ein User möchte ich das der Text mit einem Delay ausgegeben wird, damit es einzigartiger wirkt.|
-| 8  | kann                | qualität     | Als ein User möchte ich, das Fehler abgefangen werden, damit dass Programm nicht abstürzt.|
+| 7   |  kann             |  qualität   | Als ein User möchte ich, dass der Text mit einem Delay ausgegeben wird, damit es einzigartiger wirkt.|
+| 8  | kann                | qualität     | Als ein User möchte ich, dass Fehler abgefangen werden, damit dass Programm nicht abstürzt.|
 
 ### 1.3 Testfälle
 
@@ -72,7 +72,7 @@ Mein Ziel war von Anfang an klar, ich wollte eine App machen , die es dem Benutz
 
 ## 3 Entscheiden
 
-Ich habe mich am anfang gegen eine vor gefärtigte Codierlösung entschieden, da ich den Verschlüsselungs- und Entschlüsselungsmechanismus selber machen wollte ansonsten hätte ich auch nicht viel anderes mehr machen können.
+Ich habe mich am Anfang gegen eine vor gefertigte Codierlösung entschieden, da ich den Verschlüsselungs- und Entschlüsselungsmechanismus selber machen wollte, ansonsten hätte ich auch nicht viel anderes mehr machen können.
 
 ## 4 Realisieren
 
@@ -111,6 +111,6 @@ Ich habe mich am anfang gegen eine vor gefärtigte Codierlösung entschieden, da
 
 Fazit:
 
-Ich bin relativ mit dem Resultat zu frieden, jedoch hätte die Verschlüsselung noch ein wenig besser sein können. Es war nicht mein bestes aber auch nicht ein schlechtes Projekt, ich würde sagen es liegt im Mittelfeld also ganz okay aber auch nichts weltbewegendes.
+Ich bin relativ mit dem Resultat zu frieden, jedoch hätte die Verschlüsselung noch ein wenig besser sein können. Es war nicht mein bestes, aber auch nicht ein schlechtes Projekt, ich würde sagen, es liegt im Mittelfeld, also ganz okay, aber auch nichts Weltbewegendes.
 
 
